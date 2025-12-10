@@ -16,8 +16,26 @@ console.log('1'-1) // op : 0 js compiler convert the  string "1" to number
 
 
 // Accept and print the answer
-let age = prompt('enter a age')
-age = Number(age) // prompt return string | type casting
-console.log(age)
+// let age = prompt('enter a age')
+// age = Number(age) // prompt return string | type casting
+// console.log(age)
 
-    
+// swap two variables via 3 methods
+
+let num1 = 10
+let num2 = 20
+
+// num3 = num1
+// num1 = num2
+// num2 = num3
+
+// num1 = num1 + num2 // 30
+// num2 = num1 - num2 // 10
+// num1 = num1 - num2 // 10
+
+// [num1, num2] = [num2, num1]
+
+ console.log(num1,num2)
+
+
+ 
